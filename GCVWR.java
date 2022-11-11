@@ -1,6 +1,6 @@
 /**
-* Problem: Chanukah Challenge
-* Link: https://open.kattis.com/problems/chanukah
+* Problem: GCVWR
+* Link: https://open.kattis.com/problems/gcvwr
 * @author TRONG NHAN MAI
 * @version 1.0, 11/12/2022
 *
