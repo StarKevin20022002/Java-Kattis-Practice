@@ -1,4 +1,13 @@
-
+/**
+* Problem: Digit Swap
+* Link: https://open.kattis.com/problems/digitswap
+* @author TRONG NHAN MAI
+* @version 1.0, 11/11/2022
+*
+* Method : Ad-Hoc
+* Status : Accepted
+* Runtime: 0.10
+*/
 
 import java.util.Scanner;
 
