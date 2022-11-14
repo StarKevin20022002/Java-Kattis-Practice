@@ -6,7 +6,7 @@
 *
 * Method : Ad-Hoc
 * Status : Accepted
-* Runtime: 0.12
+* Runtime: 0.10
 */
 
 import java.util.Scanner;
